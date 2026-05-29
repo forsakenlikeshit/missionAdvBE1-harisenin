@@ -76,6 +76,8 @@ Response:
 }
 ```
 
+OR CHECK ETHERIAL INBOX
+
 ---
 
 ## LOGIN (PUBLIC)
