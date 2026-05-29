@@ -181,7 +181,7 @@ Response:
     "price": 150000,
     "id_tutor": 1,
     "id_kategori": 2,
-    "thumbnail": "/uploads/1780005710237-3x4.jpg"
+    "thumbnail": "/uploads/react.jpg"
   }
 }
 ```
